@@ -18,3 +18,5 @@ int main() {
 
 }
 EOL
+
+touch test.in
